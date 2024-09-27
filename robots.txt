@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isphaosi.github.io/sitemap.isphaosi.gz
+Sitemap: https://isphaosi.github.io/app/sitemap.isphaosi.gz
+Sitemap: https://isphaosi.github.io/assets/sitemap.isphaosi.gz
+Sitemap: https://isphaosi.github.io/css/sitemap.isphaosi.gz
+Sitemap: https://isphaosi.github.io/data/sitemap.isphaosi.gz
+Sitemap: https://isphaosi.github.io/includes/sitemap.isphaosi.gz
+Sitemap: https://isphaosi.github.io/item/sitemap.isphaosi.gz
+Sitemap: https://isphaosi.github.io/src/sitemap.isphaosi.gz
